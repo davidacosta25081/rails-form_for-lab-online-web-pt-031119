@@ -71,3 +71,6 @@ Started GET "/students/new" for 104.162.182.37 at 2019-08-14 00:10:24 +0000
 Processing by StudentsController#new as HTML
   Rendering students/new.html.erb within layouts/application
   Rendered students/new.html.erb within layouts/application (35.4ms)
+Completed 200 OK in 464ms (Views: 453.3ms | ActiveRecord: 1.0ms)
+
+
